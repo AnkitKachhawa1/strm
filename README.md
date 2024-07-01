@@ -1,4 +1,4 @@
-# strm
+# .STRM File Creatoor
 This simple web application allows users to create .strm (stream) files quickly and easily. STRM files are used to store links to streaming media, often used in media center software like Kodi or Plex to add streaming content to a library.
 Key Features:
 
